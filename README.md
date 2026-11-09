@@ -141,7 +141,7 @@ Tambahkan minimal tiga produk, misalnya:
 Lalu periksa:
 
 - [x] Ketiga produk muncul pada tabel.
-- [x] Pencarian (misalnya "matcha") menampilkan produk yang sesuai.
+- [x] Pencarian (misalnya "Mie Jebew") menampilkan produk yang sesuai.
 - [x] Tombol **Lihat Detail** menampilkan produk yang dipilih, termasuk fotonya.
 - [x] Nama kosong atau harga tidak valid (kosong, huruf, nol, negatif) ditolak.
 
