@@ -1,9 +1,5 @@
 # TokoApp - Aplikasi Daftar Produk Toko
 
-![Java](https://img.shields.io/badge/Java-17+-orange?logo=openjdk&logoColor=white)
-![JavaFX](https://img.shields.io/badge/JavaFX-21-2563EB)
-![Maven](https://img.shields.io/badge/Maven-build-C71A36?logo=apachemaven&logoColor=white)
-![NetBeans](https://img.shields.io/badge/IDE-NetBeans-1B6AC6?logo=apachenetbeanside&logoColor=white)
 
 Aplikasi desktop berbasis **JavaFX** untuk mencatat produk toko (makanan dan minuman), lengkap dengan foto produk. Dibuat sebagai **Tugas Individu mata kuliah Pemrograman Lanjut**, hasil modifikasi dari aplikasi praktikum.
 
@@ -114,7 +110,7 @@ TokoApp
 
 1. Clone repository ini:
    ```bash
-   git clone https://github.com/USERNAME/NAMA-REPO.git
+  [ [git clone https://github.com/Irayha/Latihan-Toko-App.git]
    ```
 2. Buka NetBeans, pilih **File > Open Project**, lalu pilih folder `TokoApp`.
 3. Klik kanan project, pilih **Reload POM**, dan tunggu dependensi JavaFX terunduh.
