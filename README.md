@@ -62,15 +62,6 @@ Menampilkan data lengkap produk yang dipilih beserta fotonya.
 
 ---
 
-## Teknologi
-
-- Java 17+
-- JavaFX 21 (FXML + CSS)
-- Maven
-- NetBeans IDE
-
----
-
 ## Struktur Proyek
 
 ```
