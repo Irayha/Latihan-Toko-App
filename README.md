@@ -24,20 +24,34 @@ Aplikasi desktop berbasis **JavaFX** untuk mencatat produk toko (makanan dan min
 
 ## UI Aplikasi
 
-### 1. Halaman Form Tambah Produk
+### 1. Halaman Form Tambah Produk dan Tampilan depan
 Form untuk mengisi data produk dan memilih foto.
 
-![Halaman Form Tambah Produk](screenshots/form.png)
+<p align="center">
+  <img src="assets/tampilan.png" alt="Preview Tambah Produk" width="350"/>
+
+</p>
+
+---
 
 ### 2. Halaman Daftar Produk
 Tabel produk, kolom pencarian, serta tombol Cari, Reset, Tambah, dan Lihat Detail.
 
-![Halaman Daftar Produk](screenshots/daftar.png)
+<p align="center">
+  <img src="assets/daftar.png" alt="Preview Tambah Produk" width="350"/>
+
+</p>
+
+---
 
 ### 3. Halaman Detail Produk
 Menampilkan data lengkap produk yang dipilih beserta fotonya.
 
-![Halaman Detail Produk](screenshots/detail.png)
+<p align="center">
+  <img src="assets/detail.png" alt="Preview Tambah Produk" width="350"/>
+
+</p>
+
 
 ---
 
